@@ -17,7 +17,7 @@ for host in nm.all_hosts():
         for port in lport:
             print ('port : %s\tstate : %s' % (port, nm[host][proto][port]['state']))
 
-
+print "finish app ---->"
 
 
 
