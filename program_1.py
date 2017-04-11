@@ -48,7 +48,7 @@ for host in nm.all_hosts():
             print ('port : %s\tstate : %s' % (port, nm[host][proto][port]['state']))
 
 
-print "finish app ---->"
+print "finish app cada 15 minutos ---->"
 
 
 
